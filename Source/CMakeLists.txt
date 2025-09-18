@@ -1,0 +1,4 @@
+add_subdirectory(Database)
+add_subdirectory(KyraGameEngine)
+add_subdirectory(WorldEditor)
+add_subdirectory(KyraHockeyManager)
